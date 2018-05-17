@@ -114,19 +114,14 @@ The Society shall be administered by an annually elected Executive Committee (he
 3. Coordinates with faculty members to organise guest lectures on topics researched at the University or at SCC.
 
 
-### Communications Officer
+### Publicity Officer
 
-1. The Communications Officer is responsible for processing routine external and internal communications, and for the publishing and announcement of all matters that require it.
+1. The Publicity Officer is responsible for processing routine external and internal communications, and for the publishing and announcement of all matters that require it.
 2. Must publicise socials, events, talks, announcements and campaigns at least a week before their occur expect in exceptional circumstances.
 3. Is reponsible for maintaining and updating the variously held social network groups and news feeds.
-4. Is jointly responsible, with the Visual Media Officer, for organsing visual assets to be published.
-
-
-### Visual Media Officer
-
-1. The Visual Media Officer is responsible for producing all visual media material for Society events or campaigns and shall maintain publicity supplies.
-2. Is responsible for the production or organisation of any video promotions that may be necessary throughout the year.
-3. Must maintain the working set of documentation, including stylistic use of graphics, including Logos, Banners and Templates, for use by the public.
+4. The Publicity Officer is responsible for producing all visual media material for Society events or campaigns and shall maintain publicity supplies.
+5. Is responsible for the production or organisation of any video promotions that may be necessary throughout the year.
+6. Must maintain the working set of documentation, including stylistic use of graphics, including Logos, Banners and Templates, for use by the public.
 
 
 ### Welfare Officer
