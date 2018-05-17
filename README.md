@@ -98,7 +98,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. Organise and publicise a wide range of social events and activities with industry for all members.
 
 
-### Systems Officer
+### Technical Officer
 
 1. Two Systems Officers must be elected into the executive to oversee the running of all services for and on behalf of the society.
 2. The Systems Officers oversee individual project leaders and shall provide and manage resources to assist the project leaders.
