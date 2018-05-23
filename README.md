@@ -61,7 +61,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 4. Must attend all committees and meetings of which they are a member ex- officio, and inform Officers of the Committee of which meetings they are responsible for attending and ensuring the Society is represented at these.
 5. Is ultimately responsible for the running of the Executive and empowered to make decisions on its behalf, which can be called to account at Executive and General Meetings.
 6. Is ultimately responsible to maintaining the reputation of the Society, members of the Society and its facilities, including the Societal Room.
-7. Is responsible with the Developer Officer(s) for the formulation and fulfillment of the social calendar and for overseeing social activities within the college.
+7. Is responsible with the Developer Officer(s) for the formulation and fulfilment of the social calendar and for overseeing social activities within the college.
 8. Act as chair to all Society meetings.
 
 
@@ -84,7 +84,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ### Secretary
 
-1. Be responsible for administration of all matters relating to memberships and subscriptions and liasing appropriately with the Treasurer.
+1. Be responsible for administration of all matters relating to memberships and subscriptions and liaising appropriately with the Treasurer.
 2. Be responsible for all Society correspondence and administration.
 3. Take minutes at meetings and circulate agendas and minutes of such meetings to the membership.
 4. Informing the membership of other appropriate information as and when necessary.
@@ -118,7 +118,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 1. The Publicity Officer is responsible for processing routine external and internal communications, and for the publishing and announcement of all matters that require it.
 2. Must publicise socials, events, talks, announcements and campaigns at least a week before their occur expect in exceptional circumstances.
-3. Is reponsible for maintaining and updating the variously held social network groups and news feeds.
+3. Is responsible for maintaining and updating the variously held social network groups and news feeds.
 4. The Publicity Officer is responsible for producing all visual media material for Society events or campaigns and shall maintain publicity supplies.
 5. Is responsible for the production or organisation of any video promotions that may be necessary throughout the year.
 6. Must maintain the working set of documentation, including stylistic use of graphics, including Logos, Banners and Templates, for use by the public.
@@ -161,7 +161,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ## General Finance
 
-1. All financial matters of the Society shall be dealt with as set out in the LUSU Financial Regulations as laid out in Schedule A, Byelaw 4 (www.lusu.co.uk/documents).
+1. All financial matters of the Society shall be dealt with as set out in the LUSU Financial Regulations as laid out in Schedule A, By-law 4 (www.lusu.co.uk/documents).
 2. A budget of estimates for the coming year’s expenditure shall, by the end of the summer term, be drawn up by the Treasurer and presented in writing to an Executive Meeting for approval. It should then be presented to a General Meeting and published on the society website.
 3. The following shall ordinarily be signatories of the Executive account with LUSU or with any financial institution:
    1. President,
@@ -175,14 +175,14 @@ The Society shall be administered by an annually elected Executive Committee (he
 1. A Project may be initiated by the Executive at any time.
 2. Every project must have a Director appointed by a majority of the Board at all times.
 3. The Executive may remove any director by unanimous vote at any time. Any project that lacks both a director, acting or full, and members shall automatically be defunct.
-4. Any Project may choose to create by-laws specifying their membership or policies at any time using the same methods used to create the Society's bylaws, with the director of the project acting as the President and half the membership of the Project being a quorum.
-5. A majority of the Board may veto any bylaw of any committee, but they may not make bylaws for a committee on their own.
+4. Any Project may choose to create by-laws specifying their membership or policies at any time using the same methods used to create the Society's by-laws, with the director of the project acting as the President and half the membership of the Project being a quorum.
+5. A majority of the Board may veto any by-law of any committee, but they may not make by-laws for a committee on their own.
 6. The Executive may also appoint members as general directors for specific purposes or missions that do not require projects, such as alumni relations, publicity and recruitment, or whatever other tasks the Executive deems necessary for the good of the Society.
 
 
 ## Provisions
 
-1. Any complaints about the running or operations of the Society should initially be discussed with the President and then follow the procedures set out in bye-law D10 of the Union Constitution. Please do not hestitate to contact us directly with any inquiries.
+1. Any complaints about the running or operations of the Society should initially be discussed with the President and then follow the procedures set out in bye-law D10 of the Union Constitution. Please do not hesitate to contact us directly with any inquiries.
 2. The whole or any part of this constitution may be altered, amended or deleted at any GM or at the AGM. Any changes shall require a qualified majority.
 3. The Society may be dissolved at an AGM, provided that at least 21 days' notice of the intention to dissolve the Society has been given to the official mailing list. At least two thirds of the votes cast must be in favour of the motion for Dissolution for it to be effective.
 4. In the event of the dissolution of the society, its assets shall be given to the University society with the most similar interests, as determined by the final GM.
@@ -190,7 +190,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ## Sponsorship
 
-1. Sponsors of the society are categorised into four groups, listed in Subsection 10.2, and are entitled to both represent and be represented by the society through financial means or otherwise stated by a contract signed by the President or Vice-President, the Secretary, the Treasurer and a representative of the sponsor. At a minimum, sponsors of the society receive the right to publically affiliate with the society in addition to the conditions listed below:
+1. Sponsors of the society are categorised into four groups, listed in Subsection 10.2, and are entitled to both represent and be represented by the society through financial means or otherwise stated by a contract signed by the President or Vice-President, the Secretary, the Treasurer and a representative of the sponsor. At a minimum, sponsors of the society receive the right to publicly affiliate with the society in addition to the conditions listed below:
    1. Platinum which represents an exclusive and prioritised affiliation
    2. Gold which represents exclusive affiliation
    3. Silver which represents affiliation, and
