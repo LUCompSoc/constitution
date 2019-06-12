@@ -25,8 +25,8 @@
 ## General status
 
 1. The society shall be called "Lancaster University Computer Science Society" and may be referred to as either "LUCSS" or "LU CompSoc".
-2. The society is categorised as an Academic Society, whose student body is jointly governed by [Lancaster University Students' Union](https://lusu.co.uk) (henceforth, LUSU), [The School of Computing and Communications](https://scc.lancs.ac.uk) (henceforth, SCC), and the society’s Executive Committee (henceforth, the Executive) (see Section 4).
-3. The society may affiliate to external bodies in compliance with Section 15 of [LUSU Constitution](https://gap.lancs.ac.uk/terms/Documents/LUSU-Constitution-0214.pdf) and in compliance with Section 8 of this Constitution.
+2. The society is categorised as an Academic Society, whose student body is jointly governed by [Lancaster University Students' Union](https://lusu.co.uk) (henceforth, The Union), [The School of Computing and Communications](https://scc.lancs.ac.uk) (henceforth, SCC), and the society’s Executive Committee (henceforth, the Executive) (see Section 4).
+3. The society may affiliate to external bodies in compliance with Section 15 of [The SU Constitution](https://gap.lancs.ac.uk/terms/Documents/LUSU-Constitution-0214.pdf) and in compliance with Section 8 of this Constitution.
 
 
 ## Aims
@@ -34,16 +34,17 @@
 1. To promote interest for members and the public in computing and information technology.
 2. To provide networking opportunities with potential employers for members.
 3. To provide a forum for discussion on issues and topics concerning information technology.
+4. To support students in their academic study of computing and information technology.
 
 
 ## Membership
 
-1. Membership to the Society is open is available to all, with full and associate members of LUSU, SCC, and honorary members as laid out in Section 3.4 of this Constitution. Society membership should fall into two categories, full and associate, as laid out in Section 3 of the Union Constitution.
-3. All members may attend and speak at meetings however, only full members may propose a motion or vote at a meeting.
+1. Membership to the Society is open and available to all, with full and associate members of The Union, SCC, and honorary members as laid out in Section 3.4 of this Constitution. Society membership should fall into two categories, full and associate, as laid out in Section 3 of the Union Constitution.
+3. All members may attend and speak at general meetings however, only full members may propose a motion or vote at a general meeting.
 4. Only full members have the right to be a candidate, vote or nominate/second a candidate in elections. The three principle positions of the Society Executive Committee, as determined by the respective society, must be full members
-5. Honorary membership may be granted on a life basis or for a limited period, subject to the agreement of the qualified majority at the Annual General Meeting. This shall normally be granted to ex-members for outstanding service to the Society, or for those who can continue to offer service to the Society.
+5. Honorary membership may be granted on a life basis or for a limited period, subject to the agreement of a qualified majority at the Annual General Meeting. This shall normally be granted to ex-members for outstanding service to the Society, or for those who can continue to offer service to the Society.
 6. Honorary members have the right to participate in all Society Activities, and attend and speak at meetings.
-7. The Executive Committee reserves the right to refuse or revoke membership, with the approval of Activities Council, of an individual for breaching this constitution, the Society’s Safety Code of Practice, the LUSU Safety Framework or bringing the Society into disrepute, subject to the complaints procedure set out in section 7 of this constitution.
+7. The Executive Committee reserves the right to refuse or revoke membership, with the approval of the Activities Council, of an individual for breaching this constitution, the Society’s Safety Code of Practice, the Union's Safety Framework or bringing the Society into disrepute, subject to the complaints procedure set out in section 7 of this constitution.
 8. The Executive Committee may fix a membership fee at its discretion.
 9. The Executive Committee and the General Meetings shall have the right to offer free temporary or life membership to any person as they see fit.
 
@@ -88,7 +89,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. Be responsible for all Society correspondence and administration.
 3. Take minutes at meetings and circulate agendas and minutes of such meetings to the membership.
 4. Informing the membership of other appropriate information as and when necessary.
-5. Be responsible for the ordering and maintenance of all Society equipment.
+5.
 6. Act as Returning Officer at all elections and ensure their smooth running.
 
 
@@ -100,11 +101,12 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ### Technical Officer
 
-1. Two Systems Officers must be elected into the executive to oversee the running of all services for and on behalf of the society.
-2. The Systems Officers oversee individual project leaders and shall provide and manage resources to assist the project leaders.
+1. Two Technical Officers must be elected into the executive to oversee the running of all services for and on behalf of the society.
+2. The Technical Officers oversee individual project leaders and shall provide and manage resources to assist the project leaders.
 3. Must ensure the smooth running of all operations and coordinate with all project leaders on the status of systems and their operations.
 4. Shall also determine the feasibility of project proposals and make recommendations to the board, as well as facilitate the placement of members into project roles.
 5. During elections, a candidate Systems Officer must convince voters of their competency to ensure continuation of on-going projects.
+6. Be responsible for the ordering and maintenance of all Society equipment.
 
 
 ### Education Officer
