@@ -89,8 +89,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. Be responsible for all Society correspondence and administration.
 3. Take minutes at meetings and circulate agendas and minutes of such meetings to the membership.
 4. Informing the membership of other appropriate information as and when necessary.
-5.
-6. Act as Returning Officer at all elections and ensure their smooth running.
+5. Act as Returning Officer at all elections and ensure their smooth running.
 
 
 ### Business Officer
@@ -112,7 +111,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 ### Education Officer
 
 1. The Education Officer is responsible for liaising with SCC directly on behalf of the society and student body who are members of the society.
-2. Is responsible for organising revision workshops and seminars to be held during the end of term.
+2. Is responsible for organising revision workshops and seminars to be held throughout the term.
 3. Coordinates with faculty members to organise guest lectures on topics researched at the University or at SCC.
 
 
@@ -134,28 +133,25 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ## General Meetings
 
-1. General Meetings (henceforth, GMs) may be called by the President, by a majority decision of the Executive Committee, or by written request of five or more Society member. Any request for a General Meeting should be made in writing to an Executive officer who shall take this request to the next scheduled Executive Meeting for approval.
-2. GMs must be held no less than three times each year and must be announced to the Society's official mailing list at least 14 days in advance.
-3. GMs represent the totality of the members of the Society and constitute its ultimate governing institution. All members of the society have the right to be present and vote in person or delegate their vote.
-4. Every member is entitled to exactly one vote at the GMs. They may choose to exercise it in person or to delegate it to another member of the Society in signed and dated writing.
-5. Decisions at GMs are to be passed by a simple majority vote except for certain exceptions as outlined under points 5.6 and 8.1. In the event of a tie, the vote of the incumbent President shall determine the outcome.
+1. Annual General Meetings (henceforth, AGMs) may be called by the President, by a majority decision of the Executive Committee, or by written request of five or more Society members. Any request for a General Meeting should be made in writing to an Executive officer who shall take this request to the next scheduled Executive Meeting for approval.
+2. An AGM shall be held at least once a year during full term. Reasonable measures shall be taken to ensure that participation by interested members is viable. The incumbent committee is responsible for its organisation and timely invocation. The President shall present a report of the Society’s activities for the previous year and the Treasurer shall present a statement of accounts.
+3. AGMs represent the totality of the members of the Society and constitute its ultimate governing institution. All members of the society have the right to be present and vote in person or delegate their vote.
+4. Every member is entitled to exactly one vote at the AGMs. They may choose to exercise it in person or to delegate it to another member of the Society in signed and dated writing.
+5. Decisions at AGMs are to be passed by a simple majority vote except for certain exceptions as outlined under points 5.6 and 8.1. In the event of a tie, the vote of the incumbent President shall determine the outcome.
 6. The General Meetings shall have the exclusive authority to change the Constitution and elect or discharge members of the Executive. Any change of the Constitution must be approved with at least two thirds of the votes cast.
-7. Decisions of the GMs are binding to the Executive.
-8. Any elected officer may have a motion of suspension of no confidence placed in her/him at a GM and a qualified majority shall be required to sustain it.
-9. An Annual General Meeting (AGM) shall be held at least once a year during full term. Reasonable measures shall be taken to ensure that participation by interested members is viable. The incumbent committee is responsible for its organisation and timely invocation. The President shall present a report of the Society’s activities for the previous year and the Treasurer shall present a statement of accounts.
+7. Decisions of the AGMs are binding to the Executive.
+8. Any elected officer may have a motion of suspension of no confidence placed in her/him at a AGM and a qualified majority shall be required to sustain it.
 
 
 ## Elections
 
 1. The running of all society elections shall be the responsibility of the Secretary who shall act as Returning Officer. Should this officer be a candidate in any election, then another officer may be appointed Acting Returning Officer by the Executive for the duration of that election.
-2. Resigning officers must state their position as available to the Secretary for election in the GM closest to elections and only the available positions are advertised.
-3. Positions available must be advertised 14-days prior to elections.
-4. All new officers shall be elected towards the end of Michaelmas term.
+2. At each AGM, all officers terms are considered to be available and incumbent officers will have to rerun if they wish to continue their Executive position.
+3. Society members will be informed of the date of the election, positions available and details for nominations two weeks prior to voting taking place.
+4. All officers shall be elected at the AGM, which will be held in Lent term.
 5. All officers elected at this time will attend training offered by the LUSU Student Activities Office.
-6. Any post may be filled by by-election at a GM.
-7. Society members will be informed of the date of the election, positions available and details for nominations two weeks prior to voting taking place.
-8. Re-Open Nominations (RON) shall be a candidate in all elections.
-9. All elections are preceded by speeches by the candidates. The Returning Officer shall decide in advance the maximum length of speeches. The speeches shall be followed by questions to the candidates.
+6. Re-Open Nominations (RON) shall be a candidate in all elections.
+7. All elections are preceded by speeches by the candidates. The Returning Officer shall decide in advance the maximum length of speeches. The speeches shall be followed by questions to the candidates.
    1. Candidates unable to attend must send written confirmation of their intention to stand and this may include a speech to be read out by the Returning Officer. If no confirmation is received, exclusion for the election will result.
    2. A ballot at the meeting shall be taken for each candidate. Members may only vote once per position. The candidate with the highest number of votes shall be duly elected. The Returning Officer shall be responsible for the count.
    3. Any complaints regarding elections should first be taken to the Returning Officer, and then to the Activities Council Chair, as per complaints procedure detailed in Bye-law D10.
@@ -163,8 +159,8 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ## General Finance
 
-1. All financial matters of the Society shall be dealt with as set out in the LUSU Financial Regulations as laid out in Schedule A, By-law 4 (www.lusu.co.uk/documents).
-2. A budget of estimates for the coming year’s expenditure shall, by the end of the summer term, be drawn up by the Treasurer and presented in writing to an Executive Meeting for approval. It should then be presented to a General Meeting and published on the society website.
+1. All financial matters of the Society shall be dealt with as set out in the LUSU Financial Regulations as laid out in Schedule A, By-law 4 (https://s3-eu-west-1.amazonaws.com/nusdigital/document/documents/44077/a9740e9d8fb1d46d4148a6c3719f7232/Financial_Regulations_2018_v1.pdf).
+2. A budget of estimates for the coming year’s expenditure shall, by the end of the Summer term, be drawn up by the Treasurer and presented in writing to an Executive Meeting for approval. It should then be presented to a General Meeting and published on the society website.
 3. The following shall ordinarily be signatories of the Executive account with LUSU or with any financial institution:
    1. President,
    2. Secretary, and
@@ -176,7 +172,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 1. A Project may be initiated by the Executive at any time.
 2. Every project must have a Director appointed by a majority of the Board at all times.
-3. The Executive may remove any director by unanimous vote at any time. Any project that lacks both a director, acting or full, and members shall automatically be defunct.
+3. The Executive may remove any Director by unanimous vote at any time. Any project that lacks both a director, acting or full, and members shall automatically be defunct.
 4. Any Project may choose to create by-laws specifying their membership or policies at any time using the same methods used to create the Society's by-laws, with the director of the project acting as the President and half the membership of the Project being a quorum.
 5. A majority of the Board may veto any by-law of any committee, but they may not make by-laws for a committee on their own.
 6. The Executive may also appoint members as general directors for specific purposes or missions that do not require projects, such as alumni relations, publicity and recruitment, or whatever other tasks the Executive deems necessary for the good of the Society.
@@ -185,9 +181,9 @@ The Society shall be administered by an annually elected Executive Committee (he
 ## Provisions
 
 1. Any complaints about the running or operations of the Society should initially be discussed with the President and then follow the procedures set out in bye-law D10 of the Union Constitution. Please do not hesitate to contact us directly with any inquiries.
-2. The whole or any part of this constitution may be altered, amended or deleted at any GM or at the AGM. Any changes shall require a qualified majority.
+2. The whole or any part of this constitution may be altered, amended or deleted at the AGM. Any changes shall require a qualified majority.
 3. The Society may be dissolved at an AGM, provided that at least 21 days' notice of the intention to dissolve the Society has been given to the official mailing list. At least two thirds of the votes cast must be in favour of the motion for Dissolution for it to be effective.
-4. In the event of the dissolution of the society, its assets shall be given to the University society with the most similar interests, as determined by the final GM.
+4. In the event of the dissolution of the society, its assets shall be given to the University society with the most similar interests, as determined by the AGM.
 
 
 ## Sponsorship
