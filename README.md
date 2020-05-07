@@ -3,7 +3,7 @@
 ## General status
 
 1. The society shall be called "Lancaster University Computer Science Society" and may be referred to as either "LUCSS" or "LU CompSoc".
-2. The society is categorised as an Academic Society, whose student body is jointly governed by [Lancaster University Students' Union](https://lusu.co.uk) (henceforth, The Union), [The School of Computing and Communications](https://scc.lancs.ac.uk) (henceforth, SCC), and the society’s Executive Committee (henceforth, the Executive) (see Section 4).
+2. The society is categorised as an Academic Society, whose student body is jointly governed by [Lancaster University Students' Union](https://lancastersu.co.uk) (henceforth, The Union), [The School of Computing and Communications](https://www.lancaster.ac.uk/scc/) (henceforth, SCC), and the society’s Executive Committee (henceforth, the Executive) (see Section 4).
 3. The society may affiliate to external bodies in compliance with Section 15 of [The SU Constitution](https://gap.lancs.ac.uk/terms/Documents/Lancaster SU-Constitution-0214.pdf) and in compliance with Section 8 of this Constitution.
 
 
