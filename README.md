@@ -176,4 +176,4 @@ The Society shall be administered by an annually elected Executive Committee (he
    2. Gold which represents exclusive affiliation
    3. Silver which represents affiliation, and
    4. Bronze which represents the minimum level of affiliation.
-2. If you are interested in sponsoring the society, contact us at [`compsoc@lancs.ac.uk`](mailto:compsoc@lancs.ac.uk).
+2. If you are interested in sponsoring the society, contact us at [`computerscience.su.groups@lancs.ac.uk`](mailto:computerscience.su.groups@lancs.ac.uk).
