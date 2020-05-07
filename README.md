@@ -48,7 +48,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 1. Shall assist the President in the completion of their duties, assist with the running of the Society and deputise when necessary.
 2. Shall assist the President in liaising with the Oversight Committee, LUSU and the University.
-3. Is responsible for working with the Welfare Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
+3. Is responsible for working with the Wellbeing Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
 4. Ensure all public and working documentation is up to date, including maintaining this constitution.
 5. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
 6. Organise and publicise a wide range of social events and activities with industry for all members.
@@ -99,7 +99,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 6. Must maintain the working set of documentation, including stylistic use of graphics, including Logos, Banners and Templates, for use by the public.
 
 
-### Welfare Officer
+### Wellbeing Officer
 
 1. Oversee the safety aspects of all Society activities and ensure that the LUSU Safety Framework and the Society’s Safety Code of Practise is adhered to.
 2. Works with the Education Officer to ensure the smooth running of revision workshops held during the academic year.
