@@ -105,6 +105,15 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. Works with the Education Officer to ensure the smooth running of revision workshops held during the academic year.
 
 
+### Socials Officer
+
+1. Organise regular social events for the society, a "social" is defined as any event which brings members of the society together in an informal way, external to the regular activities of the society.
+2. One social event should be organised around Welcome Week for new members of the society.
+3. To work with the Publicity Officer to compile and release a Socials calendar termly, highlighting the socials that members of the society are eligible to participate in.
+4. To work with the Wellbeing Officer, and other members of the executive to foster a more inclusive social setting at each of the societies events.
+5. Coordinate the planning and delivery of pre/post social events around major events such as the annual Roses event with HackSoc at the University of York.
+6. Promote the social activities in the society through a variety of channels, including, but not limited to participating in outreach events with the President to promote the social side of the society.
+
 ## General Meetings
 
 1. Annual General Meetings (henceforth, AGMs) may be called by the President, by a majority decision of the Executive Committee, or by written request of five or more Society members. Any request for a General Meeting should be made in writing to an Executive officer who shall take this request to the next scheduled Executive Meeting for approval.
