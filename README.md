@@ -1,27 +1,5 @@
 # Lancaster University Computer Science Society Constitution
 
-<!-- :: \iffalse -->
-[![Download PDF][SHIELD_PDF]][DOWNLOAD_PDF]
-[![Download TXT][SHIELD_TXT]][DOWNLOAD_TXT]
-<!-- :: -->
-[SHIELD_PDF]: https://img.shields.io/badge/download-PDF-brightgreen.svg
-[SHIELD_TXT]: https://img.shields.io/badge/download-TXT-brightgreen.svg
-[DOWNLOAD_PDF]: https://git.compsoc.lancs.ac.uk/compsoc/constitution/builds/artifacts/master/file/constitution.pdf?job=build
-[DOWNLOAD_TXT]: https://git.compsoc.lancs.ac.uk/compsoc/constitution/builds/artifacts/master/file/constitution.txt?job=build
-<!-- :: \fi -->
-<!-- Version 0.1.1-draft (2018-02-28) -->
-<!-- :: \maketitle -->
-
-
-
-<!-- :: \iffalse -->
-<!-- START doctoc -->
-<!-- END doctoc -->
-<!-- :: \fi -->
-<!-- :: \tableofcontents -->
-<!-- :: \pagebreak -->
-
-
 ## General status
 
 1. The society shall be called "Lancaster University Computer Science Society" and may be referred to as either "LUCSS" or "LU CompSoc".
@@ -72,6 +50,8 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. Shall assist the President in liaising with the Oversight Committee, LUSU and the University.
 3. Is responsible for working with the Welfare Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
 4. Ensure all public and working documentation is up to date, including maintaining this constitution.
+5. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
+6. Organise and publicise a wide range of social events and activities with industry for all members.
 
 
 ### Treasurer
@@ -90,12 +70,6 @@ The Society shall be administered by an annually elected Executive Committee (he
 3. Take minutes at meetings and circulate agendas and minutes of such meetings to the membership.
 4. Informing the membership of other appropriate information as and when necessary.
 5. Act as Returning Officer at all elections and ensure their smooth running.
-
-
-### Business Officer
-
-1. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
-2. Organise and publicise a wide range of social events and activities with industry for all members.
 
 
 ### Technical Officer
