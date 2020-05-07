@@ -1,0 +1,9 @@
+stages:
+  - build
+
+pdf:
+  stage: build
+  image: pandoc/latex:latest
+  script: pandoc README.md -f markdown -t latex -s -o constitution.pdf
+  paths:
+    - constitution.pdf
