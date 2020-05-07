@@ -4,7 +4,7 @@
 
 1. The society shall be called "Lancaster University Computer Science Society" and may be referred to as either "LUCSS" or "LU CompSoc".
 2. The society is categorised as an Academic Society, whose student body is jointly governed by [Lancaster University Students' Union](https://lusu.co.uk) (henceforth, The Union), [The School of Computing and Communications](https://scc.lancs.ac.uk) (henceforth, SCC), and the society’s Executive Committee (henceforth, the Executive) (see Section 4).
-3. The society may affiliate to external bodies in compliance with Section 15 of [The SU Constitution](https://gap.lancs.ac.uk/terms/Documents/LUSU-Constitution-0214.pdf) and in compliance with Section 8 of this Constitution.
+3. The society may affiliate to external bodies in compliance with Section 15 of [The SU Constitution](https://gap.lancs.ac.uk/terms/Documents/Lancaster SU-Constitution-0214.pdf) and in compliance with Section 8 of this Constitution.
 
 
 ## Aims
@@ -47,7 +47,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 ### Vice-President
 
 1. Shall assist the President in the completion of their duties, assist with the running of the Society and deputise when necessary.
-2. Shall assist the President in liaising with the Oversight Committee, LUSU and the University.
+2. Shall assist the President in liaising with the Oversight Committee, Lancaster SU and the University.
 3. Is responsible for working with the Wellbeing Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
 4. Ensure all public and working documentation is up to date, including maintaining this constitution.
 5. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
@@ -101,7 +101,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ### Wellbeing Officer
 
-1. Oversee the safety aspects of all Society activities and ensure that the LUSU Safety Framework and the Society’s Safety Code of Practise is adhered to.
+1. Oversee the safety aspects of all Society activities and ensure that the Lancaster SU Safety Framework and the Society’s Safety Code of Practise is adhered to.
 2. Works with the Education Officer to ensure the smooth running of revision workshops held during the academic year.
 
 
@@ -123,7 +123,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 2. At each AGM, all officers terms are considered to be available and incumbent officers will have to rerun if they wish to continue their Executive position.
 3. Society members will be informed of the date of the election, positions available and details for nominations two weeks prior to voting taking place.
 4. All officers shall be elected at the AGM, which will be held in Lent term.
-5. All officers elected at this time will attend training offered by the LUSU Student Activities Office.
+5. All officers elected at this time will attend training offered by the Lancaster SU Student Activities Office.
 6. Re-Open Nominations (RON) shall be a candidate in all elections.
 7. All elections are preceded by speeches by the candidates. The Returning Officer shall decide in advance the maximum length of speeches. The speeches shall be followed by questions to the candidates.
    1. Candidates unable to attend must send written confirmation of their intention to stand and this may include a speech to be read out by the Returning Officer. If no confirmation is received, exclusion for the election will result.
@@ -133,13 +133,13 @@ The Society shall be administered by an annually elected Executive Committee (he
 
 ## General Finance
 
-1. All financial matters of the Society shall be dealt with as set out in the LUSU Financial Regulations as laid out in Schedule A, By-law 4 (https://s3-eu-west-1.amazonaws.com/nusdigital/document/documents/44077/a9740e9d8fb1d46d4148a6c3719f7232/Financial_Regulations_2018_v1.pdf).
+1. All financial matters of the Society shall be dealt with as set out in the Lancaster SU Financial Regulations as laid out in Schedule A, By-law 4 (https://s3-eu-west-1.amazonaws.com/nusdigital/document/documents/44077/a9740e9d8fb1d46d4148a6c3719f7232/Financial_Regulations_2018_v1.pdf).
 2. A budget of estimates for the coming year’s expenditure shall, by the end of the Summer term, be drawn up by the Treasurer and presented in writing to an Executive Meeting for approval. It should then be presented to a General Meeting and published on the society website.
-3. The following shall ordinarily be signatories of the Executive account with LUSU or with any financial institution:
+3. The following shall ordinarily be signatories of the Executive account with Lancaster SU or with any financial institution:
    1. President,
    2. Secretary, and
    3. Treasurer.
-4. Should any of these three positions remain unfilled, another member of the Executive may have the power to be a signatory of the Society accounts after financial training from the LUSU Financial Controller.
+4. Should any of these three positions remain unfilled, another member of the Executive may have the power to be a signatory of the Society accounts after financial training from the Lancaster SU Financial Controller.
 
 
 ## Projects
