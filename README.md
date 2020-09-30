@@ -44,23 +44,16 @@ The Society shall be administered by an annually elected Executive Committee (he
 8. Act as chair to all Society meetings.
 
 
-### Vice-President
-
-1. Shall assist the President in the completion of their duties, assist with the running of the Society and deputise when necessary.
-2. Shall assist the President in liaising with the Oversight Committee, Lancaster SU and the University.
-3. Is responsible for working with the Wellbeing Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
-4. Ensure all public and working documentation is up to date, including maintaining this constitution.
-5. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
-6. Organise and publicise a wide range of social events and activities with industry for all members.
-
-
-### Treasurer
+### Treasurer/Business Officer
 
 1. Maintain good order of the Society finances and ensure that the Union Financial Regulations are adhered to.
 2. Maintain an up to date account of all financial transactions.
 3. Advise the Executive and membership on expenditure of the budget.
 4. Prepare a statement of revenue and expenditure, prior to Lent term, to be presented at the Annual General Meeting for ratification.
 5. The treasurer is charged with exploring ways of acquiring new funds for the Society, and ensuring its future solvency.
+6. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
+7. Organise and publicise a wide range of social events and activities with industry for all members.
+8. Shall assist the President in liaising with the Oversight Committee, Lancaster SU and the University.
 
 
 ### Secretary
@@ -70,6 +63,8 @@ The Society shall be administered by an annually elected Executive Committee (he
 3. Take minutes at meetings and circulate agendas and minutes of such meetings to the membership.
 4. Informing the membership of other appropriate information as and when necessary.
 5. Act as Returning Officer at all elections and ensure their smooth running.
+6. Ensure all public and working documentation is up to date, including maintaining this constitution.
+
 
 
 ### Technical Officer
