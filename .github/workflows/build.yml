@@ -1,0 +1,29 @@
+name: Build PDF
+
+on:
+  - push
+  - pull_request
+
+env:
+  SHA7: $(git rev-parse --short=7 ${{ github.sha }})
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+      - name: Convert the markdown to a LaTeX pdf
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: >- # allows you to break string into multiple lines
+            --from markdown
+            --to latex
+            --standalone
+            --output constitution.pdf
+            README.md
+      - name: Upload the pdf
+        uses: actions/upload-artifact@v2
+        with:
+          name: constitution.pdf
+          path: constitution.pdf
