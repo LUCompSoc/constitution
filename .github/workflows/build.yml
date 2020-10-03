@@ -4,9 +4,6 @@ on:
   - push
   - pull_request
 
-env:
-  SHA7: $(git rev-parse --short=7 ${{ github.sha }})
-
 jobs:
   build:
     runs-on: ubuntu-20.04
@@ -25,5 +22,21 @@ jobs:
       - name: Upload the pdf
         uses: actions/upload-artifact@v2
         with:
-          name: constitution.pdf
           path: constitution.pdf
+  deploy:
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Download the pdf
+        uses: actions/download-artifact@v2
+      - name: Install SSH Client
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
+          SSH: true
+          BRANCH: gh-pages
+          FOLDER: artifact
