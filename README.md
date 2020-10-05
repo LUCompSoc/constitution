@@ -44,7 +44,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 8. Act as chair to all Society meetings.
 
 
-### Treasurer/Business Officer
+### Treasurer
 
 1. Maintain good order of the Society finances and ensure that the Union Financial Regulations are adhered to.
 2. Maintain an up to date account of all financial transactions.
