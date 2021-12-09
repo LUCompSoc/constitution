@@ -29,10 +29,15 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-20.04
     steps:
+      # this is just used to get repo info I think
+      - name: Checkout gh-pages
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
       - name: Download the pdf
         uses: actions/download-artifact@v2
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
-          BRANCH: gh-pages
-          FOLDER: artifact
+          branch: gh-pages
+          folder: artifact
