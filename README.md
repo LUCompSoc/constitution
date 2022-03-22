@@ -106,10 +106,9 @@ The Society shall be administered by an annually elected Executive Committee (he
 6. Be responsible for the ordering and maintenance of all Society equipment.
 
 ### Collective responsibilities
-
-In Addition to the Individual responsibilities outlined above, the Executive Committee have "Collective Responsibilities" outlined below, "Collective Responsibilities" are defined as actions the Executive Committee can take by an majority decision of said Executive Committee:
-1. The Executive Committee has the Collective Responsibility to issue & revoke "Honorary Executive" status to any current member of the LU CompSoc as they see fit, "Honorary Executive" is defined as a Member of LU CompSoc who may attend Executive Committee meetings and speak during them. Such an individual appears within the Minutes with the title “Honorary Executive Member”.
-2. The Executive Committee has the Collective Responsibility for determining how many Technical Officer's LU CompSoc requires at any given time.
+1. the Executive Committee have "Collective Responsibilities" outlined below, "Collective Responsibilities" are defined as actions the Executive Committee can take by an majority decision of said Executive Committee.
+2. The Executive Committee has the Collective Responsibility to issue & revoke "Honorary Executive" status to any current member of the LU CompSoc as they see fit, "Honorary Executive" is defined as a Member of LU CompSoc who may attend Executive Committee meetings and speak during them. Such an individual appears within the Minutes with the title “Honorary Executive Member”.
+3. The Executive Committee has the Collective Responsibility for determining how many Technical Officer's LU CompSoc requires at any given time.
 
 ## General Meetings
 
