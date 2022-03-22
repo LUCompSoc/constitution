@@ -54,6 +54,7 @@ The Society shall be administered by an annually elected Executive Committee (he
 6. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
 7. Organise and publicise a wide range of social events and activities with industry for all members.
 8. Shall assist the President in liaising with the Oversight Committee, Lancaster SU and the University.
+9. Acts as an ambassador for the society, initiating relations, liaising, supporting, and coordinating with Sponsors or contacts in industry on behalf of the society and acting solely in the interest of the society in compliance with Section 7.5.
 
 
 ### Secretary
@@ -64,25 +65,28 @@ The Society shall be administered by an annually elected Executive Committee (he
 4. Informing the membership of other appropriate information as and when necessary.
 5. Act as Returning Officer at all elections and ensure their smooth running.
 6. Ensure all public and working documentation is up to date, including maintaining this constitution.
+7. The Secretary may be referred to as "General Secretary" in LU CompSoc documents.
 
+### Education Secretary
+1. The Education Secretary is responsible for planning any Educational Events, an "Educational" Event is defined as any event where an event has been organised for an explicit educational purpose.
+2. The Education Secretary is responsible for liaising with SCC directly on behalf of the society and student body who are members of the society.
+3. Is responsible for organising revision workshops and seminars to be held throughout the term.
+4. Coordinates with faculty members to organise guest lectures on topics researched at the University or at SCC.
 
+### Social Secretary
+1. Organise regular social events for the society, a "social" is defined as any event which brings members of the society together in an informal way, external to the regular activities of the society.
+2. One social event should be organised around Welcome Week for new members of the society.
+3. To work with the Publicity Officer to compile and release a Socials calendar termly, highlighting the socials that members of the society are eligible to participate in.
+4. To work with the Wellbeing Officer, and other members of the executive to foster a more inclusive social setting at each of the societies events.
+5. Coordinate the planning and delivery of pre/post social events around major events such as the annual Roses event with HackSoc at the University of York.
+6. Promote the social activities in the society through a variety of channels, including, but not limited to participating in outreach events with the President to promote the social side of the society.
+7. Is responsible for liaising with the Technical Officer’s and/or Educational Secretary to plan Educational events. 8. If Requested by the Educational Secretary, the Social Secretary can deputise a Technical Officer to be responsible for an Educational Event.
+9.If a Sober Officer is Required for an event, If attending, the Social Secretary is considered the Designated Sober Officer. Except when another member of the Executive Committee makes a written statement stating that they are willing to act as the Sober Officer for a specific Event to the President.
 
-### Technical Officer
+### Wellbeing Officer
 
-1. Two Technical Officers must be elected into the executive to oversee the running of all services for and on behalf of the society.
-2. The Technical Officers oversee individual project leaders and shall provide and manage resources to assist the project leaders.
-3. Must ensure the smooth running of all operations and coordinate with all project leaders on the status of systems and their operations.
-4. Shall also determine the feasibility of project proposals and make recommendations to the board, as well as facilitate the placement of members into project roles.
-5. During elections, a candidate Systems Officer must convince voters of their competency to ensure continuation of on-going projects.
-6. Be responsible for the ordering and maintenance of all Society equipment.
-
-
-### Education Officer
-
-1. The Education Officer is responsible for liaising with SCC directly on behalf of the society and student body who are members of the society.
-2. Is responsible for organising revision workshops and seminars to be held throughout the term.
-3. Coordinates with faculty members to organise guest lectures on topics researched at the University or at SCC.
-
+1. Oversee the safety aspects of all Society activities and ensure that the Lancaster SU Safety Framework and the Society’s Safety Code of Practise is adhered to.
+2. Works with the Education Secretary to ensure the smooth running of revision workshops held during the academic year.
 
 ### Publicity Officer
 
@@ -93,21 +97,18 @@ The Society shall be administered by an annually elected Executive Committee (he
 5. Is responsible for the production or organisation of any video promotions that may be necessary throughout the year.
 6. Must maintain the working set of documentation, including stylistic use of graphics, including Logos, Banners and Templates, for use by the public.
 
+### Technical Officer
+1. Technical Officers can be elected to the executive to oversee the running of all services for and on behalf of the society.
+2. The Technical Officers oversee individual project leaders and shall provide and manage resources to assist the project leaders.
+3. Must ensure the smooth running of all operations and coordinate with all project leaders on the status of systems and their operations.
+4. Shall also determine the feasibility of project proposals and make recommendations to the board, as well as facilitate the placement of members into project roles.
+5. During elections, a candidate Systems Officer must convince voters of their competency to ensure continuation of on-going projects.
+6. Be responsible for the ordering and maintenance of all Society equipment.
 
-### Wellbeing Officer
-
-1. Oversee the safety aspects of all Society activities and ensure that the Lancaster SU Safety Framework and the Society’s Safety Code of Practise is adhered to.
-2. Works with the Education Officer to ensure the smooth running of revision workshops held during the academic year.
-
-
-### Socials Officer
-
-1. Organise regular social events for the society, a "social" is defined as any event which brings members of the society together in an informal way, external to the regular activities of the society.
-2. One social event should be organised around Welcome Week for new members of the society.
-3. To work with the Publicity Officer to compile and release a Socials calendar termly, highlighting the socials that members of the society are eligible to participate in.
-4. To work with the Wellbeing Officer, and other members of the executive to foster a more inclusive social setting at each of the societies events.
-5. Coordinate the planning and delivery of pre/post social events around major events such as the annual Roses event with HackSoc at the University of York.
-6. Promote the social activities in the society through a variety of channels, including, but not limited to participating in outreach events with the President to promote the social side of the society.
+### Collective responsibilities
+In Addition to the Individual responsibilities outlined above, the Executive Committee have "Collective Responsibilities" outlined below, "Collective Responsibilities" are defined as actions the Executive Committee can take by an majority decision of said Executive Committee:
+1.The Executive Committee has the Collective Responsibility to issue & revoke "Honorary Executive" status to any current member of the LU CompSoc as they see fit, "Honorary Executive" is defined as a Member of LU CompSoc who may attend Executive Committee meetings and speak during them. Such an individual appears within the Minutes with the title “Honorary Executive Member”.
+2. The Executive Committee has the Collective Responsibility for determining how many Technical Officer's LU CompSoc requires at any given time.
 
 ## General Meetings
 
@@ -144,7 +145,6 @@ The Society shall be administered by an annually elected Executive Committee (he
    2. Secretary, and
    3. Treasurer.
 4. Should any of these three positions remain unfilled, another member of the Executive may have the power to be a signatory of the Society accounts after financial training from the Lancaster SU Financial Controller.
-
 
 ## Projects
 
