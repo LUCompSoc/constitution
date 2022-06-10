@@ -80,8 +80,9 @@ The Society shall be administered by an annually elected Executive Committee (he
 4. To work with the Wellbeing Officer, and other members of the executive to foster a more inclusive social setting at each of the societies events.
 5. Coordinate the planning and delivery of pre/post social events around major events such as the annual Roses event with HackSoc at the University of York.
 6. Promote the social activities in the society through a variety of channels, including, but not limited to participating in outreach events with the President to promote the social side of the society.
-7. Is responsible for liaising with the Technical Officer’s and/or Educational Secretary to plan Educational events. 8. If Requested by the Educational Secretary, the Social Secretary can deputise a Technical Officer to be responsible for an Educational Event.
-9.If a Sober Officer is Required for an event, If attending, the Social Secretary is considered the Designated Sober Officer. Except when another member of the Executive Committee makes a written statement stating that they are willing to act as the Sober Officer for a specific Event to the President.
+7. Is responsible for liaising with the Technical Officer’s and/or Educational Secretary to plan Educational events. 
+8. If Requested by the Educational Secretary, the Social Secretary can deputise a Technical Officer to be responsible for an Educational Event.
+9. If a Sober Officer is Required for an event, If attending, the Social Secretary is considered the Designated Sober Officer. Except when another member of the Executive Committee makes a written statement stating that they are willing to act as the Sober Officer for a specific Event to the President.
 
 ### Wellbeing Officer
 
