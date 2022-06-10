@@ -43,6 +43,12 @@ The Society shall be administered by an annually elected Executive Committee (he
 7. Is responsible with the Developer Officer(s) for the formulation and fulfilment of the social calendar and for overseeing social activities within the college.
 8. Act as chair to all Society meetings.
 
+### Vice-President
+
+1. Shall assist the President in the completion of their duties, assist with the running of the Society and deputise when necessary.
+2. Shall assist the President in liaising with the Oversight Committee, LUSU and the University.
+3. Is responsible for working with the Welfare Officer(s) to ensure all Society welfare and academic issues are represented and promoted.
+4. Ensure all public and working documentation is up to date, including maintaining this constitution.
 
 ### Treasurer
 
