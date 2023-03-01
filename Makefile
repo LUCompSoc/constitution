@@ -1,4 +1,18 @@
-.phony: build
+.PHONY: build clean
 
 build:
-	pandoc README.md -f markdown -t latex -s -o constitution.pdf
+	pdflatex constitution.tex
+	pdflatex constitution.tex
+	make clean_build_artefacts
+	# pandoc README.md -f markdown -t latex -s -o constitution.pdf
+
+
+clean_build_artefacts:
+	@-rm -f *.aux **/*.aux
+	@-rm -f *.log **/*.log
+	@-rm -f *.out **/*.out
+	@-rm -f *.toc **/*.toc
+
+clean: clean_build_artefacts
+	@-rm -f *.pdf **/*.pdf
+
