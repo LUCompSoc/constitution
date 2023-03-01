@@ -1,2 +1,5 @@
-/constitution.pdf
-/constitution.tex
+*.aux
+*.log
+*.out
+*.toc
+
