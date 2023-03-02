@@ -2,7 +2,9 @@
 
 build:
 	pdflatex constitution.tex
+	pdflatex bye-laws/*.tex
 	pdflatex constitution.tex
+	pdflatex bye-laws/*.tex
 	make clean_build_artefacts
 	# pandoc README.md -f markdown -t latex -s -o constitution.pdf
 
