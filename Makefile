@@ -5,6 +5,9 @@ TEX_FILES := $(wildcard *.tex) $(wildcard **/*.tex)
 PDF_FILES := $(patsubst %.tex,build/%.pdf,$(TEX_FILES))
 
 
+rebuild: clean_pdfs build
+
+
 build: $(PDF_FILES)
 	@# pandoc README.md -f markdown -t latex -s -o constitution.pdf
 
@@ -26,5 +29,5 @@ clean_pdfs:
 clean: clean_build_artefacts clean_pdfs
 
 
-.PHONY: build clean clean_pdfs clean_build_artefacts
+.PHONY: build clean clean_pdfs clean_build_artefacts rebuild
 
