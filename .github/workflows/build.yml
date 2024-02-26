@@ -6,6 +6,27 @@ on:
   - workflow_dispatch
 
 jobs:
+  generate_pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install Poetry
+        run: |
+          pip install poetry
+          poetry install
+      - name: Run build.py
+        run: |
+          poetry run python build.py
+      - name: Move PDFs to build directory
+        run: |
+          mkdir -p build
+          mv *.pdf build/
   build:
     runs-on: ubuntu-20.04
     steps:
