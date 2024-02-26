@@ -23,10 +23,6 @@ jobs:
       - name: Run build.py
         run: |
           poetry run python build.py
-      - name: Move PDFs to build directory
-        run: |
-          mkdir -p build
-          mv *.pdf build/
   build:
     runs-on: ubuntu-20.04
     steps:
