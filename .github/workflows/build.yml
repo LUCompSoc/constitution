@@ -26,5 +26,5 @@ jobs:
       - name: Upload PDF files as artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: pdf-artifacts
+          name: documentation
           path: build/
